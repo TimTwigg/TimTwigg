@@ -1,7 +1,7 @@
 <h2 align = "center"> Hi 👋</h2>
 
 <p align = "center">
-  I'm Tim. I'm a Computer Science student at UCI with a passion for coding of all kinds 💻 <br/>
+  I'm Tim. I graduated from UCI with a Bachelor's Degree in Computer Science and a passion for coding of all kinds 💻 <br/>
   Contact me at <a href = "https://www.linkedin.com/in/timtwigg/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn" height = "20"/></a>
 </p>
 
