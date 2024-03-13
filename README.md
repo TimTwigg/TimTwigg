@@ -1,7 +1,7 @@
 <h2 align = "center"> Hi 👋</h2>
 
 <p align = "center">
-  I'm Tim. I graduated from UCI with a Bachelor's Degree in Computer Science and a passion for coding of all kinds 💻 <br/>
+  I'm Tim. I work as a Junior CDS Developer for Madiba. Beyond my work in CDS though, I have a passion for coding of all kinds. <br/>
   Contact me at <a href = "https://www.linkedin.com/in/timtwigg/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn" height = "20"/></a>
 </p>
 
@@ -25,6 +25,7 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NextJS" alt = "NextJS" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "Dart" alt = "Dart" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title = "Flutter" alt = "Flutter" width = "40" height = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title = "SQL" alt = "SQL" width = 40 height = 40/>
 </div>
 
 ---
