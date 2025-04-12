@@ -1,7 +1,7 @@
 <h2 align = "center"> Hi 👋</h2>
 
 <p align = "center">
-  I'm Tim. I work as a Junior CDS Developer for Madiba. Beyond my work in CDS though, I have a passion for coding of all kinds. <br/>
+  I'm Tim. I work as an ABAP CDS Developer for Madiba Inc. Beyond my work in CDS though, I have a passion for coding of all kinds. <br/>
   Contact me at <a href = "https://www.linkedin.com/in/timtwigg/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn" height = "20"/></a>
 </p>
 
