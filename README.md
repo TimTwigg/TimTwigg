@@ -10,7 +10,6 @@
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" alt = "C" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "40" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title = "Julia" alt = "Julia" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" alt = "Python" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "Docker" alt = "Docker" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title = "CMake" alt = "CMake" width = "40" height = "40"/>
@@ -22,10 +21,10 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title = "TypeScript" alt = "TypeScript" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "React" alt = "React" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title = "Gatsby" alt = "Gatsby" width = "40" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NextJS" alt = "NextJS" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "Dart" alt = "Dart" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title = "Flutter" alt = "Flutter" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title = "SQL" alt = "SQL" width = 40 height = 40/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title = "GO" alt = "GO" width = 40 height = 40/>
   <img src = "https://github.com/TimTwigg/TimTwigg/blob/main/sap-icon.svg" title = "SAP" alt = "SAP" width = 40 height = 40/>
 </div>
 
