@@ -23,9 +23,10 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title = "Gatsby" alt = "Gatsby" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "Dart" alt = "Dart" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title = "Flutter" alt = "Flutter" width = "40" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title = "SQL" alt = "SQL" width = 40 height = 40/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title = "GO" alt = "GO" width = 40 height = 40/>
-  <img src = "https://github.com/TimTwigg/TimTwigg/blob/main/sap-icon.svg" title = "SAP" alt = "SAP" width = 40 height = 40/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title = "SQL" alt = "SQL" width = "40" height = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title = "PostgreSQL" alt = "PostgreSQL" width = "40" height = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title = "GO" alt = "GO" width = "40" height = "40"/>
+  <img src = "https://github.com/TimTwigg/TimTwigg/blob/main/sap-icon.svg" title = "SAP" alt = "SAP" width = "40" height = "40"/>
 </div>
 
 ---
